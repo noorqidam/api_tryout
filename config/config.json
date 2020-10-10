@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "edutores",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "edutore",
+    "password": "P@55w0rd",
+    "database": "db_edutore",
+    "host": "35.240.192.67",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "edutore",
+    "password": "P@55w0rd",
+    "database": "db_edutore",
+    "host": "10.82.144.5",
+    "dialect": "mysql"
+  }
+}

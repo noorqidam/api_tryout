@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "edutore01",
+  "private_key_id": "163d2e11ebe0fbaf3ce154e4c1e0b92283908024",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCy/CEq50tQFqQh\ngkLEaJvJR0okJ1bt3HDCTfxaAjN/V5Dxmq+05KSyk7JAwttrCT277oYCC3Z9q7GW\nzzXsqEO+anTlTtqPHF5T4hpz6NXL0jYsT5yqOmEQxQFZ1LcrY1RMntLL5aLKqLB5\nSm7I5niO6XfWHjBZ13myKn5AQK3wfkZOEHGn/uH2WtfFQ6e8O4BP2e/UuNGU03O4\nvTrGmc98EzvCSr4ddtXiYyRhS9PMxSOmvqurho1LS7o9ijVjyT8N8xw7nt0rgc0u\nsiILGrFR5WAAZgxRAGMH7yBIff1Lz9H9pAJIDX3Lbd1jvOWjb8JdsvNbXyVcPK77\nPmc98k6bAgMBAAECggEAJt788Q1kXNNd9+0LRQ6W7sKtxmZIycW7M2eua3nY50oE\nL4Rxrm6Nmj7bUpc/AeLy5lKqBd2pcSeNnPwJcQkmFT+XfYl/i98UWVFcf1nMvMQ9\ngagUlR+ynuq6HWFGGoUq9Kz1iNSpYyv5j43ru3PaMOdhYD4UMB7MzjXOT3P8kqLs\n9CYz+yCWGytJ+m3mqfThi8ohbii8cRK8PE4Otbhc+omvB7vmViofMUCo99IjW8wg\nD2I/cZUMdJBAepLc/ZtK1ULx3YEKxH35lMrRfbb18PEoWRS1Q2+M2b06xEL22OlI\ndpra/pcYWUn/LDhaOJaqcArdpiMbGbVOSPJKWTJMyQKBgQDYl3oNG140CFZYMEMO\ndfzwYXMdc+DJd+Fl1Oa3Z65VwW8n8NyjoaxeRln0d4ObCJzOWZBswH5Azqn34nbG\nfg2OVIPdlnk8vwhyx4wUPZqQ9kfYhRxni1ESqgJI1NzNI7vT+gA7k7bLhJ5F+6Xq\n7Kvaeeq9NBWDI9ODzOlIjL3cbQKBgQDTjPtwFzPSW0cUzVHgoP5p7pZbFmUyJpCn\nCw+aBQXLg856o36BeOw9PKzAUS8QiCoP/ahJUTjcfiFIJDq0jNblUxP/YQQqyIPR\n4/wfYkH0Ji0SvupYfUsETB4B2s3md/ig1C+cA8hoRhXR5PWtu7tFmqBE9MlL8W3m\nMt9parRiJwKBgFHnnlj8g3gruvModQMv7RG92DlIC7ZEJjFK/GBYzd1SA8XX2Kfs\nSHFyKyw+Ub8714hU6D+n31aEkFPUCNRw8JFlNmSCNaCaIQi+myNAVIYDDBI97Arf\n7S2gqrJ+BG1y2OGFRbdB2btGkE+opQqcqzQ4LGOWIZhw4NiTkZhE2LtVAoGAWuY5\nI/DUU47k/As9I0gKCXp7IKh+0w2/GgemrId79faswgV+ViOfXrCzie9YScI4UKat\nqNM9m4CWzGjE0M+zhtYrwY/uOnPuMEHGE7YkoMPGmkduapdrpG0Qd7uMvXrPWkvS\nKTd25Vc4CPhYmE4SKdZHB1onJHqYvlEdri4rVAECgYBscCAEBTi59aBY9x6q0yUr\nhtX9pnh/jBd4snuYx7pzAT0Q7BBybp4WlUeSyIr4jw509EedmvNLK5LXILVuxH7A\ndDsVLuNq91a072n8MUtKya7JEeCp2IwuKAdx6XKEKamKxlDneUwSOytThPDy1SK1\nMWkdAXFP7dKAlXO5hCbudw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-edutore-com@edutore01.iam.gserviceaccount.com",
+  "client_id": "111198123687809338086",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-edutore-com%40edutore01.iam.gserviceaccount.com"
+}

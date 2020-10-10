@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+teskerja.js
+test/
+doc/
+sub/
+pub/
+present.json
+models/index.js
+testing/
+dump/
+docker-compose.yml
+dockerfile
+injectmenu.js
