@@ -12,7 +12,17 @@ module.exports = {
         password: bcrypt.hashSync('rahasia123', salt),
         authorized: "EDUTORE", //publisher
         role: "ADMIN", /// admin , 
-        accountkey:'EDUTOR', // publihser
+        accountkey:'EDUTORE', // publihser
+        suspend: false
+      },
+      { 
+        _id: uuid(),
+        username: 'Edutore',
+        displayname: 'Edutore',
+        password: bcrypt.hashSync('Edutore', salt),
+        authorized: "PARTNER", //publisher
+        role: "ADMIN", /// admin , 
+        accountkey:'EDUTORE', // publihser
         suspend: false
       }
     ], {});

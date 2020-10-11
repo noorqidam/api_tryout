@@ -18,7 +18,7 @@ let urlDatabase = require('./config/db')
 
 /** Set Connection MongoDB */
 mongoose.set('debug', true)
-mongoose.connect(urlDatabase.production, { useNewUrlParser : true , useUnifiedTopology: true , useFindAndModify: false , autoIndex: false })
+mongoose.connect(urlDatabase.development, { useNewUrlParser : true , useUnifiedTopology: true , useFindAndModify: false , autoIndex: false })
 
 const connectMongoDB = mongoose.connection
 connectMongoDB.on('error', console.error.bind(console,'connection error'))
